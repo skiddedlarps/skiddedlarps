@@ -4,7 +4,7 @@
 <h1 align="center">skiddedlarps</h1>
 <a href="https://github.com/skiddedlarps">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=skiddedlarps" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=skiddedlarpsx&color=blueviolet" alt="Profile Views">
   </p>
 </a>
 
